@@ -61,7 +61,7 @@ The top 3 horses are:
 This was computed in 11 races
 ```
 
-## How the Base Case 
+## How the Base Case Works
 
 With a track size of 5 and 3 possible 
 
