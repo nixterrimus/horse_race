@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+$:.unshift File.join(File.dirname(__FILE__), *%w{ .. lib })
+
+require 'horse_race'
+
+say("Welcome to Horse Racing")
+puts Problem::Interactive.new.solution_summary
+
+
